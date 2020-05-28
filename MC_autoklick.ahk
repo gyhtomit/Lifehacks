@@ -17,6 +17,14 @@ Loop,
 }
 return
 
+^Numpad2::
+Loop,
+{
+	Click right
+	Sleep, 100
+}
+return
+
 !LButton::
 	Send, {LButton down}
 	;Sleep, 1200 ; one block
