@@ -1,0 +1,1 @@
+net use Z: "https:\\owncloud.tuwien.ac.at\remote.php\dav\files\87DAE242-FB37-4E28-AD89-4DE41E9520D9"
